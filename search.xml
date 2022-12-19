@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>摸鱼日记3</title>
+      <link href="/2022/12/21/2022-12-21/"/>
+      <url>/2022/12/21/2022-12-21/</url>
+      
+        <content type="html"><![CDATA[<h2 id="hexo-命令行"><a href="#hexo-命令行" class="headerlink" title="hexo 命令行"></a>hexo 命令行</h2><h3 id="下载butterfly主题命令"><a href="#下载butterfly主题命令" class="headerlink" title="下载butterfly主题命令"></a>下载butterfly主题命令</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm i hexo-theme-butterfly</span><br><span class="line">pm update hexo-theme-butterfly</span><br></pre></td></tr></table></figure><h3 id="下载hexo插件命令"><a href="#下载hexo插件命令" class="headerlink" title="下载hexo插件命令"></a>下载hexo插件命令</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br><span class="line">npm install hexo-deployer-git --save</span><br><span class="line">npm install hexo-generator-search --save</span><br><span class="line">npm install hexo-wordcount --save</span><br></pre></td></tr></table></figure><h3 id="部署和本地启动命令"><a href="#部署和本地启动命令" class="headerlink" title="部署和本地启动命令"></a>部署和本地启动命令</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</span><br><span class="line">hexo cl &amp;&amp; hexo s</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>摸鱼日记2</title>
+      <link href="/2022/12/20/2022-12-20/"/>
+      <url>/2022/12/20/2022-12-20/</url>
+      
+        <content type="html"><![CDATA[<h2 id="幸福往往是摸得透彻，而敬业的心却常常隐藏"><a href="#幸福往往是摸得透彻，而敬业的心却常常隐藏" class="headerlink" title="幸福往往是摸得透彻，而敬业的心却常常隐藏"></a>幸福往往是摸得透彻，而敬业的心却常常隐藏</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>摸鱼日记1</title>
+      <link href="/2022/12/19/2022-12-19/"/>
+      <url>/2022/12/19/2022-12-19/</url>
+      
+        <content type="html"><![CDATA[<h2 id="我摸了，你随意"><a href="#我摸了，你随意" class="headerlink" title="我摸了，你随意"></a>我摸了，你随意</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
