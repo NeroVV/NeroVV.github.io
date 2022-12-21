@@ -4,11 +4,61 @@
   
     
     <entry>
-      <title>摸鱼日记3</title>
-      <link href="/2022/12/19/%E6%91%B8%E9%B1%BC%E6%97%A5%E8%AE%B03/"/>
-      <url>/2022/12/19/%E6%91%B8%E9%B1%BC%E6%97%A5%E8%AE%B03/</url>
+      <title>摸鱼日记4</title>
+      <link href="/2022/12/21/%E6%91%B8%E9%B1%BC%E6%97%A5%E8%AE%B04/"/>
+      <url>/2022/12/21/%E6%91%B8%E9%B1%BC%E6%97%A5%E8%AE%B04/</url>
       
-        <content type="html"><![CDATA[<h2 id="hexo-命令行"><a href="#hexo-命令行" class="headerlink" title="hexo 命令行"></a>hexo 命令行</h2><h3 id="下载butterfly主题命令"><a href="#下载butterfly主题命令" class="headerlink" title="下载butterfly主题命令"></a>下载butterfly主题命令</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm i hexo-theme-butterfly</span><br><span class="line">pm update hexo-theme-butterfly</span><br></pre></td></tr></table></figure><h3 id="下载hexo插件命令"><a href="#下载hexo插件命令" class="headerlink" title="下载hexo插件命令"></a>下载hexo插件命令</h3><h5 id="pug以及stylus的渲染器"><a href="#pug以及stylus的渲染器" class="headerlink" title="pug以及stylus的渲染器"></a>pug以及stylus的渲染器</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure><h5 id="静态代码挂载到GitHub"><a href="#静态代码挂载到GitHub" class="headerlink" title="静态代码挂载到GitHub"></a>静态代码挂载到GitHub</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure><h5 id="本地搜索系统"><a href="#本地搜索系统" class="headerlink" title="本地搜索系统"></a>本地搜索系统</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-generator-search --save</span><br></pre></td></tr></table></figure><h5 id="文章字数统计"><a href="#文章字数统计" class="headerlink" title="文章字数统计"></a>文章字数统计</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-wordcount --save</span><br></pre></td></tr></table></figure><h5 id="lived2d框架和模型"><a href="#lived2d框架和模型" class="headerlink" title="lived2d框架和模型"></a>lived2d框架和模型</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm install --save hexo-helper-live2d</span><br><span class="line">npm install --save live2d-widget-model-wanko</span><br></pre></td></tr></table></figure><h5 id="留言板"><a href="#留言板" class="headerlink" title="留言板"></a>留言板</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-butterfly-envelope --save</span><br></pre></td></tr></table></figure><h5 id="页脚GitHub徽标"><a href="#页脚GitHub徽标" class="headerlink" title="页脚GitHub徽标"></a>页脚GitHub徽标</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-butterfly-footer-beautify --save</span><br></pre></td></tr></table></figure><h5 id="分类磁贴"><a href="#分类磁贴" class="headerlink" title="分类磁贴"></a>分类磁贴</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i hexo-magnet --save</span><br></pre></td></tr></table></figure><h5 id="文章置顶栏"><a href="#文章置顶栏" class="headerlink" title="文章置顶栏"></a>文章置顶栏</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-butterfly-swiper --save</span><br></pre></td></tr></table></figure><h5 id="主题文章双栏布局"><a href="#主题文章双栏布局" class="headerlink" title="主题文章双栏布局"></a>主题文章双栏布局</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i hexo-butterfly-article-double-row --save</span><br></pre></td></tr></table></figure><h5 id="wowjs动画"><a href="#wowjs动画" class="headerlink" title="wowjs动画"></a>wowjs动画</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-butterfly-wowjs --save</span><br></pre></td></tr></table></figure><h5 id="晚点再补充"><a href="#晚点再补充" class="headerlink" title="晚点再补充"></a>晚点再补充</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">npm uninstall hexo-butterfly-clock</span><br><span class="line">npm install hexo-butterfly-clock-anzhiyu --save</span><br><span class="line">npm install hexo-butterfly-tag-plugins-plus --save</span><br><span class="line">npm uninstall hexo-renderer-marked --save</span><br><span class="line">npm install hexo-renderer-kramed --save</span><br></pre></td></tr></table></figure><h3 id="部署和本地启动命令"><a href="#部署和本地启动命令" class="headerlink" title="部署和本地启动命令"></a>部署和本地启动命令</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</span><br><span class="line">hexo cl &amp;&amp; hexo s</span><br></pre></td></tr></table></figure><h2 id="部分外挂标签展示"><a href="#部分外挂标签展示" class="headerlink" title="部分外挂标签展示"></a>部分外挂标签展示</h2><h3 id="上标标签-tip"><a href="#上标标签-tip" class="headerlink" title="上标标签 tip"></a>上标标签 tip</h3><div class="tip "><p>default</p></div><div class="tip info"><p>info</p></div><div class="tip success"><p>success</p></div><h3 id="时间轴样式"><a href="#时间轴样式" class="headerlink" title="时间轴样式"></a>时间轴样式</h3><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>时间轴样式</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-07-24 <a href="https://github.com/volantis-x/hexo-theme-volantis/releases">2.6.6 -&gt; 3.0</a></p></div></div><div class='timeline-item-content'><p>2022-07-24时间模块</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-05-15 <a href="https://github.com/volantis-x/hexo-theme-volantis/releases/tag/2.6.6">2.6.3 -&gt; 2.6.6</a></p></div></div><div class='timeline-item-content'><p>2022-05-15时间模块</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-04-20 <a href="https://github.com/volantis-x/hexo-theme-volantis/releases/tag/2.6.3">2.6.2 -&gt; 2.6.3</a></p></div></div><div class='timeline-item-content'><p>2022-04-20时间模块</p></div></div></div>]]></content>
+        <content type="html"><![CDATA[<h2 id="别人没观察你之前，你有可能在摸鱼，也可能没有摸鱼"><a href="#别人没观察你之前，你有可能在摸鱼，也可能没有摸鱼" class="headerlink" title="别人没观察你之前，你有可能在摸鱼，也可能没有摸鱼"></a>别人没观察你之前，你有可能在摸鱼，也可能没有摸鱼</h2><h2 id="这种处于摸鱼和没摸鱼之间的叠加态，我称之为-薛定谔在摸鱼"><a href="#这种处于摸鱼和没摸鱼之间的叠加态，我称之为-薛定谔在摸鱼" class="headerlink" title="这种处于摸鱼和没摸鱼之间的叠加态，我称之为: 薛定谔在摸鱼"></a>这种处于摸鱼和没摸鱼之间的叠加态，我称之为: 薛定谔在摸鱼</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> Fish </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 摸鱼 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>摸鱼日记5</title>
+      <link href="/2022/12/21/%E6%91%B8%E9%B1%BC%E6%97%A5%E8%AE%B05/"/>
+      <url>/2022/12/21/%E6%91%B8%E9%B1%BC%E6%97%A5%E8%AE%B05/</url>
+      
+        <content type="html"><![CDATA[<h2 id="To-touch-fish-or-not-to-touch-fish-that-is-the-question-—-《Touch-fish-Hamlet》"><a href="#To-touch-fish-or-not-to-touch-fish-that-is-the-question-—-《Touch-fish-Hamlet》" class="headerlink" title="To touch fish, or not to touch fish, that is the question —- 《Touch fish Hamlet》"></a>To touch fish, or not to touch fish, that is the question —- 《Touch fish Hamlet》</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> Fish </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 摸鱼 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>博客搭建命令</title>
+      <link href="/2022/12/19/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%91%BD%E4%BB%A4/"/>
+      <url>/2022/12/19/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%91%BD%E4%BB%A4/</url>
+      
+        <content type="html"><![CDATA[<h2 id="hexo-命令行"><a href="#hexo-命令行" class="headerlink" title="hexo 命令行"></a>hexo 命令行</h2><h3 id="下载butterfly主题命令"><a href="#下载butterfly主题命令" class="headerlink" title="下载butterfly主题命令"></a>下载butterfly主题命令</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm i hexo-theme-butterfly</span><br><span class="line">pm update hexo-theme-butterfly</span><br></pre></td></tr></table></figure><h3 id="下载hexo插件命令"><a href="#下载hexo插件命令" class="headerlink" title="下载hexo插件命令"></a>下载hexo插件命令</h3><div class="hide-block"><button type="button" class="hide-button" style="background-color:  blue;">点击查看命令    </button><div class="hide-content"><h4 id="pug以及stylus的渲染器"><a href="#pug以及stylus的渲染器" class="headerlink" title="pug以及stylus的渲染器"></a>pug以及stylus的渲染器</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure><h4 id="静态代码挂载到GitHub"><a href="#静态代码挂载到GitHub" class="headerlink" title="静态代码挂载到GitHub"></a>静态代码挂载到GitHub</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure><h4 id="本地搜索系统"><a href="#本地搜索系统" class="headerlink" title="本地搜索系统"></a>本地搜索系统</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-generator-search --save</span><br></pre></td></tr></table></figure><h4 id="文章字数统计"><a href="#文章字数统计" class="headerlink" title="文章字数统计"></a>文章字数统计</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-wordcount --save</span><br></pre></td></tr></table></figure><h4 id="lived2d框架和模型"><a href="#lived2d框架和模型" class="headerlink" title="lived2d框架和模型"></a>lived2d框架和模型</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm install --save hexo-helper-live2d</span><br><span class="line">npm install --save live2d-widget-model-wanko</span><br></pre></td></tr></table></figure><h4 id="留言板"><a href="#留言板" class="headerlink" title="留言板"></a>留言板</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-butterfly-envelope --save</span><br></pre></td></tr></table></figure><h4 id="页脚GitHub徽标"><a href="#页脚GitHub徽标" class="headerlink" title="页脚GitHub徽标"></a>页脚GitHub徽标</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-butterfly-footer-beautify --save</span><br></pre></td></tr></table></figure><h4 id="分类磁贴"><a href="#分类磁贴" class="headerlink" title="分类磁贴"></a>分类磁贴</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i hexo-magnet --save</span><br></pre></td></tr></table></figure><h4 id="文章置顶栏"><a href="#文章置顶栏" class="headerlink" title="文章置顶栏"></a>文章置顶栏</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-butterfly-swiper --save</span><br></pre></td></tr></table></figure><h4 id="主题文章双栏布局"><a href="#主题文章双栏布局" class="headerlink" title="主题文章双栏布局"></a>主题文章双栏布局</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i hexo-butterfly-article-double-row --save</span><br></pre></td></tr></table></figure><h4 id="wowjs动画"><a href="#wowjs动画" class="headerlink" title="wowjs动画"></a>wowjs动画</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-butterfly-wowjs --save</span><br></pre></td></tr></table></figure><h4 id="电子时钟"><a href="#电子时钟" class="headerlink" title="电子时钟"></a>电子时钟</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">npm uninstall hexo-butterfly-clock</span><br><span class="line">npm install hexo-butterfly-clock-anzhiyu --save</span><br><span class="line">npm install hexo-butterfly-tag-plugins-plus --save</span><br></pre></td></tr></table></figure><h4 id="外挂标签"><a href="#外挂标签" class="headerlink" title="外挂标签"></a>外挂标签</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm uninstall hexo-renderer-marked --save</span><br><span class="line">npm install hexo-renderer-kramed --save</span><br></pre></td></tr></table></figure><h4 id="音乐播放器"><a href="#音乐播放器" class="headerlink" title="音乐播放器"></a>音乐播放器</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-tag-aplayer --save</span><br></pre></td></tr></table></figure></div></div><h3 id="部署和本地启动命令"><a href="#部署和本地启动命令" class="headerlink" title="部署和本地启动命令"></a>部署和本地启动命令</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</span><br><span class="line">hexo cl &amp;&amp; hexo s</span><br></pre></td></tr></table></figure><h2 id="部分外挂标签展示"><a href="#部分外挂标签展示" class="headerlink" title="部分外挂标签展示"></a>部分外挂标签展示</h2><h3 id="上标标签-tip"><a href="#上标标签-tip" class="headerlink" title="上标标签 tip"></a>上标标签 tip</h3><div class="tip "><p>default</p></div><div class="tip info"><p>info</p></div><div class="tip success"><p>success</p></div><h3 id="时间轴样式"><a href="#时间轴样式" class="headerlink" title="时间轴样式"></a>时间轴样式</h3><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>时间轴样式</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-07-24 <a href="https://github.com/volantis-x/hexo-theme-volantis/releases">2.6.6 -&gt; 3.0</a></p></div></div><div class='timeline-item-content'><p>2022-07-24时间模块</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-05-15 <a href="https://github.com/volantis-x/hexo-theme-volantis/releases/tag/2.6.6">2.6.3 -&gt; 2.6.6</a></p></div></div><div class='timeline-item-content'><p>2022-05-15时间模块</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-04-20 <a href="https://github.com/volantis-x/hexo-theme-volantis/releases/tag/2.6.3">2.6.2 -&gt; 2.6.3</a></p></div></div><div class='timeline-item-content'><p>2022-04-20时间模块</p></div></div></div><h2 id="b站视频适配"><a href="#b站视频适配" class="headerlink" title="b站视频适配"></a>b站视频适配</h2><div align=center class="aspect-ratio">    <iframe src="//player.bilibili.com/player.html?aid=330784383&bvid=BV1SA411s7iK&cid=273046680&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>     scrolling="no"     border="0"     frameborder="no"     framespacing="0"     high_quality=1    danmaku=1     allowfullscreen="true">     </iframe></div>]]></content>
       
       
       <categories>
@@ -20,7 +70,32 @@
       
         <tags>
             
-            <tag> 标签3 </tag>
+            <tag> Blog </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>摸鱼日记3</title>
+      <link href="/2022/12/19/%E6%91%B8%E9%B1%BC%E6%97%A5%E8%AE%B03/"/>
+      <url>/2022/12/19/%E6%91%B8%E9%B1%BC%E6%97%A5%E8%AE%B03/</url>
+      
+        <content type="html"><![CDATA[<h2 id="当别人以为我在摸鱼的时候，其实我没摸鱼，这是一种摸鱼"><a href="#当别人以为我在摸鱼的时候，其实我没摸鱼，这是一种摸鱼" class="headerlink" title="当别人以为我在摸鱼的时候，其实我没摸鱼，这是一种摸鱼"></a>当别人以为我在摸鱼的时候，其实我没摸鱼，这是一种摸鱼</h2><h2 id="当别人以为我没有摸鱼的时候，其实我在摸鱼，这也是一种摸鱼"><a href="#当别人以为我没有摸鱼的时候，其实我在摸鱼，这也是一种摸鱼" class="headerlink" title="当别人以为我没有摸鱼的时候，其实我在摸鱼，这也是一种摸鱼"></a>当别人以为我没有摸鱼的时候，其实我在摸鱼，这也是一种摸鱼</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> Fish </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 摸鱼 </tag>
             
         </tags>
       
@@ -38,14 +113,14 @@
       
       <categories>
           
-          <category> Game </category>
+          <category> Fish </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 标签2 </tag>
+            <tag> 摸鱼 </tag>
             
         </tags>
       
@@ -63,14 +138,14 @@
       
       <categories>
           
-          <category> Daily </category>
+          <category> Fish </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 标签1 </tag>
+            <tag> 摸鱼 </tag>
             
         </tags>
       
